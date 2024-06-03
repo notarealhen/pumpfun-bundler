@@ -24,3 +24,11 @@ Join my Discord for more info on how to buy: https://discord.gg/NMxm9rhdYR
 [BetterSol Gitbook](https://notarealhen.gitbook.io/better-sol)
 
 ## Gallery
+![Token Card](https://github.com/notarealhen/pumpfun-bundler/blob/main/token-create.png)
+![Disperse Card](https://github.com/notarealhen/pumpfun-bundler/blob/main/disperse.png)
+![Raydium Card](https://github.com/notarealhen/pumpfun-bundler/blob/main/raydium-bundle.png)
+![PumpFun Card](https://github.com/notarealhen/pumpfun-bundler/blob/main/pumpfun-bundle.png)
+
+## Proof
+![Raydium Bundle Proof](https://github.com/notarealhen/pumpfun-bundler/blob/main/raydium-proof.png)
+![Pumpfun Bundle Proof](https://github.com/notarealhen/pumpfun-bundler/blob/main/pumpfun-proof.png)
