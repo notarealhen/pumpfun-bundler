@@ -9,7 +9,7 @@ Join my Discord for more info on how to buy: https://discord.gg/NMxm9rhdYR
 - Complete BetterSol repository to run locally
 - Access to all features including: 
   - Raydium Bundler/Manager (create and remove LP in an instant)
-  - Pumpfun Bundler/Manager
+  - Pumpfun Bundler/Manager (https://pump.fun/H1BFcZ87VNMBtFdnaWJXQYLcJq8kANyKac9pe3rmD8Kp 21 wallet bundle)
   - Custom CA (launch your tokens with a vanity address)
   - Token/SOL Disperser (connected wallet to multiple wallets)
   - SOL Collector (multiple wallets to connected wallet)
